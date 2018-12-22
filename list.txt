@@ -7,7 +7,7 @@ Adorned Pouncer
 Aether Hub
 Aetherling
 Ajani Vengeant
-"Alesha, Who Smiles at Death"
+Alesha, Who Smiles at Death
 Ancestral Recall
 Ancestral Vision
 Ancient Tomb
@@ -29,7 +29,7 @@ Balance
 Baleful Strix
 Banefire
 Banishing Light
-"Baral, Chief of Compliance"
+Baral, Chief of Compliance
 Basalt Monolith
 Batterskull
 Battlefield Forge
@@ -48,12 +48,12 @@ Blooming Marsh
 Bonesplitter
 Boros Charm
 Boros Signet
-"Bosh, Iron Golem"
-"Braids, Cabal Minion"
+Bosh, Iron Golem
+Braids, Cabal Minion
 Brainstorm
 Breeding Pool
 Bribery
-"Brimaz, King of Oreskos"
+Brimaz, King of Oreskos
 Burning of Xinye
 Burst Lightning
 Carnage Tyrant
@@ -63,8 +63,8 @@ Caves of Koilos
 Celestial Colonnade
 Chain Lightning
 Chainer's Edict
-"Chandra, Flamecaller"
-"Chandra, Torch of Defiance"
+Chandra, Flamecaller
+Chandra, Torch of Defiance
 Channel
 Char
 Chart a Course
@@ -90,8 +90,8 @@ Custodi Lich
 Dack Fayden
 Damnation
 Dance of the Dead
-"Daretti, Ingenious Iconoclast"
-"Daretti, Scrap Savant"
+Daretti, Ingenious Iconoclast
+Daretti, Scrap Savant
 Dark Confidant
 Dark Ritual
 Dauntless Bodyguard
@@ -113,7 +113,7 @@ Disenchant
 Dismember
 Divest
 Dragonlord Atarka
-"Drana, Liberator of Malakir"
+Drana, Liberator of Malakir
 Dread Wanderer
 Dreadbore
 Dryad Militant
@@ -121,13 +121,13 @@ Duress
 Dust Bowl
 Earthquake
 Earthshaker Khenra
-"Edric, Spymaster of Trest"
+Edric, Spymaster of Trest
 Eldrazi Displacer
-"Elesh Norn, Grand Cenobite"
-"Elspeth, Knight-Errant"
-"Elspeth, Sun's Champion"
+Elesh Norn, Grand Cenobite
+Elspeth, Knight-Errant
+Elspeth, Sun's Champion
 Elvish Mystic
-"Emrakul, the Promised End"
+Emrakul, the Promised End
 Enclave Cryptologist
 Engineered Explosives
 Enlightened Tutor
@@ -175,9 +175,9 @@ Garruk Wildspeaker
 Gemstone Mine
 Gideon Jura
 Gideon of the Trials
-"Gideon, Ally of Zendikar"
+Gideon, Ally of Zendikar
 Gilded Lotus
-"Gisela, the Broken Blade"
+Gisela, the Broken Blade
 Glen Elendra Archmage
 Glory-Bound Initiate
 Gnarled Scarhide
@@ -223,20 +223,20 @@ Inferno Titan
 Inkwell Leviathan
 Inquisition of Kozilek
 Irrigated Farmland
-"Isamaru, Hound of Konda"
+Isamaru, Hound of Konda
 Izzet Charm
 Izzet Signet
 Jace Beleren
-"Jace, the Mind Sculptor"
-"Jace, Vryn's Prodigy"
+Jace, the Mind Sculptor
+Jace, Vryn's Prodigy
 Jackal Pup
 Joraga Treespeaker
 Journey to Nowhere
-"Kalitas, Traitor of Ghet"
+Kalitas, Traitor of Ghet
 Karakas
-"Kari Zev, Skyship Raider"
+Kari Zev, Skyship Raider
 Karn Liberated
-"Karn, Scion of Urza"
+Karn, Scion of Urza
 Kessig Prowler
 Kitchen Finks
 Kitesail Freebooter
@@ -244,7 +244,7 @@ Kodama's Reach
 Kolaghan's Command
 Kor Skyfisher
 Koth of the Hammer
-"Kytheon, Hero of Akros"
+Kytheon, Hero of Akros
 Land Tax
 Languish
 Lavaclaw Reaches
@@ -255,8 +255,8 @@ Lightning Greaves
 Lightning Helix
 Lightning Strike
 Liliana of the Veil
-"Liliana, Death's Majesty"
-"Liliana, the Last Hope"
+Liliana, Death's Majesty
+Liliana, the Last Hope
 Lingering Souls
 Living Death
 Llanowar Elves
@@ -321,11 +321,11 @@ Nekrataal
 Nether Void
 Never // Return
 Nezumi Graverobber
-"Nicol Bolas, God-Pharaoh"
-"Nissa, Steward of Elements"
-"Nissa, Vastwood Seer"
-"Nissa, Voice of Zendikar"
-"Nissa, Worldwaker"
+Nicol Bolas, God-Pharaoh
+Nissa, Steward of Elements
+Nissa, Vastwood Seer
+Nissa, Voice of Zendikar
+Nissa, Worldwaker
 Noble Hierarch
 Noose Constrictor
 Oath of Druids
@@ -350,7 +350,7 @@ Plateau
 Plated Geopede
 Plow Under
 Polluted Delta
-"Polukranos, World Eater"
+Polukranos, World Eater
 Ponder
 Porcelain Legionnaire
 Powder Keg
@@ -358,7 +358,7 @@ Preordain
 Primeval Titan
 Profane Command
 Psychatog
-"Purphoros, God of the Forge"
+Purphoros, God of the Forge
 Qasali Pridemage
 Raging Ravine
 Rakdos Cackler
@@ -379,13 +379,13 @@ Remand
 Restoration Angel
 Reveillark
 Rishadan Port
-"Rofellos, Llanowar Emissary"
+Rofellos, Llanowar Emissary
 Sacred Foundry
 Saheeli Rai
 Sakura-Tribe Elder
 Sarcomancy
 Sarkhan Vol
-"Sarkhan, the Dragonspeaker"
+Sarkhan, the Dragonspeaker
 Savannah
 Scalding Tarn
 Scavenging Ooze
@@ -419,7 +419,7 @@ Sol Ring
 Soldier of the Pantheon
 Solemn Simulacrum
 Sorcerous Spyglass
-"Sorin, Lord of Innistrad"
+Sorin, Lord of Innistrad
 Soul-Scar Mage
 Soulfire Grand Master
 Sower of Temptation
@@ -428,7 +428,7 @@ Spectral Procession
 Spellskite
 Sphinx of the Steel Wind
 Splinter Twin
-"Squee, Goblin Nabob"
+Squee, Goblin Nabob
 Steam Vents
 Steppe Lynx
 Stirring Wildwood
@@ -455,18 +455,18 @@ Sylvan Library
 Taiga
 Tangle Wire
 Tarmogoyf
-"Tasigur, the Golden Fang"
+Tasigur, the Golden Fang
 Tattermunge Maniac
-"Teferi, Hero of Dominaria"
+Teferi, Hero of Dominaria
 Temple Garden
 Temple of Epiphany
 Temple of Mystery
 Terastodon
 Terramorphic Expanse
 Tezzeret the Seeker
-"Tezzeret, Agent of Bolas"
-"Thalia, Guardian of Thraben"
-"Thalia, Heretic Cathar"
+Tezzeret, Agent of Bolas
+Thalia, Guardian of Thraben
+Thalia, Heretic Cathar
 Thalia's Lancers
 The Antiquities War
 Thing in the Ice
@@ -475,7 +475,7 @@ Thoughtseize
 Thragtusk
 Thran Dynamo
 Through the Breach
-"Thrun, the Last Troll"
+Thrun, the Last Troll
 Thundermaw Hellkite
 Time Walk
 Timetwister
@@ -494,8 +494,8 @@ Tropical Island
 True-Name Nemesis
 Trygon Predator
 Tundra
-"Ugin, the Spirit Dragon"
-"Ulamog, the Ceaseless Hunger"
+Ugin, the Spirit Dragon
+Ulamog, the Ceaseless Hunger
 Umezawa's Jitte
 Underground Sea
 Unexpectedly Absent
@@ -504,7 +504,7 @@ Vampire Nighthawk
 Vampiric Tutor
 Vedalken Shackles
 Vendilion Clique
-"Venser, Shaper Savant"
+Venser, Shaper Savant
 Verdant Catacombs
 Vindicate
 Viridian Shaman

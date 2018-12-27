@@ -1,5 +1,5 @@
 Abbot of Keral Keep
-Abrade
+Subterranean Tremors
 Abrupt Decay
 Accorder Paladin
 Acidic Slime
@@ -27,7 +27,7 @@ Azorius Signet
 Badlands
 Balance
 Baleful Strix
-Banefire
+Rolling Earthquake
 Banishing Light
 Wharf Infiltrator
 Basalt Monolith
@@ -64,7 +64,7 @@ Celestial Colonnade
 Chain Lightning
 Chainer's Edict
 Chandra, Flamecaller
-Chandra, Torch of Defiance
+Collective Defiance
 Channel
 Char
 Serum Visions
@@ -107,7 +107,7 @@ Desolation Angel
 Diabolic Edict
 Dig Through Time
 Dimir Signet
-Dire Fleet Daredevil
+Keldon Marauders
 Diregraf Ghoul
 Disenchant
 Dismember
@@ -120,7 +120,7 @@ Dryad Militant
 Duress
 Dust Bowl
 Earthquake
-Earthshaker Khenra
+Grenzo, Havoc Raiser
 Edric, Spymaster of Trest
 Eldrazi Displacer
 Elesh Norn, Grand Cenobite
@@ -200,8 +200,8 @@ Gruul Signet
 Hallowed Fountain
 Hangarback Walker
 Hanweir Garrison
-Harsh Mentor
-Hazoret the Fervent
+Lightning Mauler
+Hero of Oxid Ridge
 Hedron Archive
 Heir of Falkenrath
 Hellkite Overlord
@@ -234,7 +234,7 @@ Joraga Treespeaker
 Journey to Nowhere
 Kalitas, Traitor of Ghet
 Karakas
-Kari Zev, Skyship Raider
+War-Name Aspirant
 Karn Liberated
 Karn, Scion of Urza
 Kessig Prowler
@@ -420,14 +420,14 @@ Soldier of the Pantheon
 Solemn Simulacrum
 Sorcerous Spyglass
 Sorin, Lord of Innistrad
-Soul-Scar Mage
+Goblin Glory Chaser
 Soulfire Grand Master
 Sower of Temptation
 Spear of Heliod
 Spectral Procession
 Spellskite
 Sphinx of the Steel Wind
-Splinter Twin
+Avalanche Riders
 Squee, Goblin Nabob
 Steam Vents
 Steppe Lynx

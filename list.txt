@@ -29,7 +29,7 @@ Balance
 Baleful Strix
 Banefire
 Banishing Light
-Baral, Chief of Compliance
+Wharf Infiltrator
 Basalt Monolith
 Batterskull
 Battlefield Forge
@@ -67,7 +67,7 @@ Chandra, Flamecaller
 Chandra, Torch of Defiance
 Channel
 Char
-Chart a Course
+Serum Visions
 Chrome Mox
 City of Brass
 Coalition Relic
@@ -98,7 +98,7 @@ Dragon Hunter
 Day of Judgment
 Daze
 Deal Broker
-Deceiver Exarch
+Waterfront Bouncer
 Declaration in Stone
 Deep Analysis
 Demonic Tutor
@@ -128,7 +128,7 @@ Elspeth, Knight-Errant
 Elspeth, Sun's Champion
 Elvish Mystic
 Emrakul, the Promised End
-Enclave Cryptologist
+Stratus Dancer
 Engineered Explosives
 Enlightened Tutor
 Entomb
@@ -339,7 +339,7 @@ Overgrown Tomb
 Pack Rat
 Path to Exile
 Pernicious Deed
-Pestermite
+Time Spiral
 Phantasmal Image
 Phyrexian Arena
 Phyrexian Metamorph
@@ -393,7 +393,7 @@ Scrapheap Scrounger
 Scrubland
 Scythe Leopard
 Seal of Cleansing
-Search for Azcanta
+Thirst for Knowledge
 Search for Tomorrow
 Searing Spear
 Selesnya Signet
@@ -468,7 +468,7 @@ Tezzeret, Agent of Bolas
 Thalia, Guardian of Thraben
 Thalia, Heretic Cathar
 Baneslayer Angel
-The Antiquities War
+Academy Ruins
 Thing in the Ice
 Thought-Knot Seer
 Thoughtseize
@@ -523,7 +523,7 @@ Wickerbough Elder
 Wild Mongrel
 Wild Nacatl
 Wildfire
-Will Kenrith
+Imprisoned in the Moon
 Windswept Heath
 Winter Orb
 Wolfbitten Captive

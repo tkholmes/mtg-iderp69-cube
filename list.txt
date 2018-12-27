@@ -111,10 +111,10 @@ Dire Fleet Daredevil
 Diregraf Ghoul
 Disenchant
 Dismember
-Divest
+Silent Specter
 Dragonlord Atarka
 Drana, Liberator of Malakir
-Dread Wanderer
+Vampire Lacerator
 Dreadbore
 Dryad Militant
 Duress
@@ -239,7 +239,7 @@ Karn Liberated
 Karn, Scion of Urza
 Kessig Prowler
 Kitchen Finks
-Kitesail Freebooter
+Dauthi Horror
 Kodama's Reach
 Kolaghan's Command
 Kor Skyfisher
@@ -255,7 +255,7 @@ Lightning Greaves
 Lightning Helix
 Lightning Strike
 Liliana of the Veil
-Liliana, Death's Majesty
+Contagion
 Liliana, the Last Hope
 Lingering Souls
 Living Death
@@ -319,7 +319,7 @@ Necromancy
 Needle Spires
 Nekrataal
 Nether Void
-Never // Return
+Ruinous Path
 Nezumi Graverobber
 Nicol Bolas, God-Pharaoh
 Nissa, Steward of Elements
@@ -367,7 +367,7 @@ Ramunap Excavator
 Rancor
 Ratchet Bomb
 Ravages of War
-Ravenous Chupacabra
+Liliana, Heretical Healer
 Reality Smasher
 Reanimate
 Reclamation Sage
@@ -389,7 +389,7 @@ Sarkhan, the Dragonspeaker
 Savannah
 Scalding Tarn
 Scavenging Ooze
-Scrapheap Scrounger
+Ob Nixilis of the Black Oath
 Scrubland
 Scythe Leopard
 Seal of Cleansing

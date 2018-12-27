@@ -22,7 +22,7 @@ Archangel Avacyn
 Arid Mesa
 Armageddon
 Asylum Visitor
-Avenger of Zendikar
+Song of the Dryads
 Azorius Signet
 Badlands
 Balance
@@ -56,7 +56,7 @@ Bribery
 Brimaz, King of Oreskos
 Burning of Xinye
 Burst Lightning
-Carnage Tyrant
+Kalonian Hydra
 Carnophage
 Catastrophe
 Caves of Koilos
@@ -79,7 +79,7 @@ Copperline Gorge
 Council's Judgment
 Counterspell
 Courser of Kruphix
-Craterhoof Behemoth
+Regal Behemoth
 Creeping Tar Pit
 Crucible of Worlds
 Cryptic Command
@@ -230,7 +230,7 @@ Jace Beleren
 Jace, the Mind Sculptor
 Jace, Vryn's Prodigy
 Jackal Pup
-Joraga Treespeaker
+Duskwatch Recruiter
 Journey to Nowhere
 Kalitas, Traitor of Ghet
 Karakas
@@ -275,7 +275,7 @@ Mana Drain
 Mana Leak
 Mana Tithe
 Mana Vault
-Manglehorn
+Den Protector
 Manic Vandal
 Mardu Strike Leader
 Mardu Woe-Reaper
@@ -363,7 +363,7 @@ Qasali Pridemage
 Raging Ravine
 Rakdos Cackler
 Rakdos Signet
-Ramunap Excavator
+Oath of Nissa
 Rancor
 Ratchet Bomb
 Ravages of War

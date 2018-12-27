@@ -3,7 +3,7 @@ Abrade
 Abrupt Decay
 Accorder Paladin
 Acidic Slime
-Adorned Pouncer
+Elite Vanguard
 Aether Hub
 Aetherling
 Ajani Vengeant
@@ -94,7 +94,7 @@ Daretti, Ingenious Iconoclast
 Daretti, Scrap Savant
 Dark Confidant
 Dark Ritual
-Dauntless Bodyguard
+Dragon Hunter
 Day of Judgment
 Daze
 Deal Broker
@@ -146,7 +146,7 @@ Faithless Looting
 Falkenrath Gorger
 Fauna Shaman
 Feldon of the Third Path
-Felidar Guardian
+Relic Seeker
 Fetid Pools
 Field of Ruin
 Fiery Confluence
@@ -167,19 +167,19 @@ Forbid
 Force of Will
 Force Spike
 Fractured Identity
-Fumigate
+Ajani Goldmane
 Fyndhorn Elves
 Gaea's Cradle
 Garruk Relentless
 Garruk Wildspeaker
 Gemstone Mine
 Gideon Jura
-Gideon of the Trials
+Cloudgoat Ranger
 Gideon, Ally of Zendikar
 Gilded Lotus
 Gisela, the Broken Blade
 Glen Elendra Archmage
-Glory-Bound Initiate
+Soltari Trooper
 Gnarled Scarhide
 Go for the Throat
 Goblin Guide
@@ -265,7 +265,7 @@ Lone Missionary
 Looter il-Kor
 Lotus Cobra
 Lumbering Falls
-Lyra Dawnbringer
+Eternal Dragon
 Maelstrom Pulse
 Magma Jet
 Man-o'-War
@@ -408,7 +408,7 @@ Simic Signet
 Sinkhole
 Skinrender
 Skullclamp
-Skymarcher Aspirant
+Savannah Lions
 Smash to Smithereens
 Smokestack
 Smuggler's Copter
@@ -437,7 +437,7 @@ Stoneforge Mystic
 Stormblood Berserker
 Strip Mine
 Stromkirk Noble
-Student of Warfare
+Kor Haven
 Sulfuric Vortex
 Sun Titan
 Sundering Titan
@@ -467,7 +467,7 @@ Tezzeret the Seeker
 Tezzeret, Agent of Bolas
 Thalia, Guardian of Thraben
 Thalia, Heretic Cathar
-Thalia's Lancers
+Baneslayer Angel
 The Antiquities War
 Thing in the Ice
 Thought-Knot Seer

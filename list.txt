@@ -4,7 +4,7 @@ Abrupt Decay
 Accorder Paladin
 Acidic Slime
 Elite Vanguard
-Aether Hub
+Tendo Ice Bridge
 Aetherling
 Ajani Vengeant
 Alesha, Who Smiles at Death
@@ -97,7 +97,7 @@ Dark Ritual
 Dragon Hunter
 Day of Judgment
 Daze
-Deal Broker
+Undiscovered Paradise
 Waterfront Bouncer
 Declaration in Stone
 Deep Analysis
@@ -159,7 +159,7 @@ Firedrinker Satyr
 Firestorm
 Flames of the Firebrand
 Flametongue Kavu
-Fleetwheel Cruiser
+Westvale Abbey
 Flesh Carver
 Flickerwisp
 Flooded Strand
@@ -236,7 +236,7 @@ Kalitas, Traitor of Ghet
 Karakas
 War-Name Aspirant
 Karn Liberated
-Karn, Scion of Urza
+Scroll Rack
 Kessig Prowler
 Kitchen Finks
 Dauthi Horror
@@ -411,14 +411,14 @@ Skullclamp
 Savannah Lions
 Smash to Smithereens
 Smokestack
-Smuggler's Copter
+Captain's Claws
 Snapcaster Mage
 Sneak Attack
 Snuff Out
 Sol Ring
 Soldier of the Pantheon
 Solemn Simulacrum
-Sorcerous Spyglass
+Triskelion
 Sorin, Lord of Innistrad
 Goblin Glory Chaser
 Soulfire Grand Master
@@ -440,7 +440,7 @@ Stromkirk Noble
 Kor Haven
 Sulfuric Vortex
 Sun Titan
-Sundering Titan
+Sword of the Animist
 Supreme Verdict
 Survival of the Fittest
 Sword of Body and Mind
@@ -510,7 +510,7 @@ Vindicate
 Viridian Shaman
 Volcanic Island
 Volrath's Stronghold
-Walking Ballista
+Reflecting Pool
 Wall of Omens
 Wall of Roots
 Wandering Fumarole

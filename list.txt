@@ -37,14 +37,14 @@ Bayou
 Birds of Paradise
 Bitterblossom
 Black Lotus
-Blackcleave Cliffs
+Sulfurous Springs
 Blade Splicer
 Blood Crypt
 Bloodbraid Elf
 Bloodghast
 Bloodsoaked Champion
 Bloodstained Mire
-Blooming Marsh
+Llanowar Wastes
 Bonesplitter
 Boros Charm
 Boros Signet
@@ -75,7 +75,7 @@ Coldsteel Heart
 Condescend
 Consecrated Sphinx
 Control Magic
-Copperline Gorge
+Karplusan Forest
 Council's Judgment
 Counterspell
 Courser of Kruphix
@@ -103,7 +103,7 @@ Declaration in Stone
 Deep Analysis
 Demonic Tutor
 Deranged Hermit
-Desolation Angel
+Anguished Unmaking
 Diabolic Edict
 Dig Through Time
 Dimir Signet
@@ -147,7 +147,7 @@ Falkenrath Gorger
 Fauna Shaman
 Feldon of the Third Path
 Relic Seeker
-Fetid Pools
+Underground River
 Field of Ruin
 Fiery Confluence
 Figure of Destiny
@@ -166,7 +166,7 @@ Flooded Strand
 Forbid
 Force of Will
 Force Spike
-Fractured Identity
+Detention Sphere
 Ajani Goldmane
 Fyndhorn Elves
 Gaea's Cradle
@@ -212,7 +212,7 @@ Hero's Downfall
 Hissing Quagmire
 Horizon Canopy
 Hornet Queen
-Hostage Taker
+Dragonlord Silumgar
 Hymn to Tourach
 Icy Manipulator
 Imperial Recruiter
@@ -222,7 +222,7 @@ Incinerate
 Inferno Titan
 Inkwell Leviathan
 Inquisition of Kozilek
-Irrigated Farmland
+Adarkar Wastes
 Isamaru, Hound of Konda
 Izzet Charm
 Izzet Signet
@@ -286,7 +286,7 @@ Maze of Ith
 Meloku the Clouded Mirror
 Memory Jar
 Memory Lapse
-Meren of Clan Nel Toth
+Deathrite Shaman
 Metalworker
 Mimic Vat
 Mind Stone
@@ -321,8 +321,8 @@ Nekrataal
 Nether Void
 Ruinous Path
 Nezumi Graverobber
-Nicol Bolas, God-Pharaoh
-Nissa, Steward of Elements
+Nicol Bolas, Planeswalker
+Shardless Agent
 Nissa, Vastwood Seer
 Nissa, Voice of Zendikar
 Nissa, Worldwaker
@@ -381,7 +381,7 @@ Reveillark
 Rishadan Port
 Rofellos, Llanowar Emissary
 Sacred Foundry
-Saheeli Rai
+Ral Zarek
 Sakura-Tribe Elder
 Sarcomancy
 Sarkhan Vol
@@ -457,10 +457,10 @@ Tangle Wire
 Tarmogoyf
 Tasigur, the Golden Fang
 Tattermunge Maniac
-Teferi, Hero of Dominaria
+Geist of Saint Traft
 Temple Garden
-Temple of Epiphany
-Temple of Mystery
+Shivan Reef
+Yavimaya Coast
 Terastodon
 Terramorphic Expanse
 Tezzeret the Seeker

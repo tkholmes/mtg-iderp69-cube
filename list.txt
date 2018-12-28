@@ -181,7 +181,7 @@ Grafted Wargear
 Grand Coliseum
 Grave Titan
 Gravecrawler
-Great Oak Guardian
+Greenwarden of Murasa
 Greater Gargadon
 Green Sun's Zenith
 Grenzo, Havoc Raiser
@@ -285,7 +285,7 @@ Mirari's Wake
 Mirror Entity
 Miscalculation
 Mishra's Factory
-Mishra's Workshop
+Prismatic Lens
 Misty Rainforest
 Moat
 Monastery Mentor
